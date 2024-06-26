@@ -1,4 +1,3 @@
-[![MasterHead]([https://drive.google.com/file/d/194rUtvSBnB_Z_mrUv39TxV4Yw7x_ofsk/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fspace&psig=AOvVaw0MYS1Q0zjtpniz1FIhq3Pw&ust=1719532554473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD-r428-oYDFQAAAAAdAAAAABAI))
 <h1 align="center">Hi 👋, I'm Serdar Alkan</h1>
 <h3 align="center">A passionate Backend Developer from Türkiye</h3>
 
